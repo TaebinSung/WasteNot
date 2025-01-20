@@ -1,6 +1,12 @@
 # Welcome to WasteNot!
 
-WasteNot is an web app with the purpose of preventing food waste by keeping track of food inventory, notifying users of expiration dates, suggesting recipes, and providing food bank locators.
+**WasteNot** is an web app with the purpose of preventing food waste by keeping track of food inventory, notifying users of expiration dates, suggesting recipes, and providing food bank locators.
+
+
+![WasteNotLP](https://github.com/user-attachments/assets/9fd047cb-ab2d-4cbe-a216-c9a3ff6f0aa7)
+![IngredientsPageSC](https://github.com/user-attachments/assets/085d3ee5-b8b0-4fa6-9151-c9e39db5ecbd)
+![RecipesPageSc](https://github.com/user-attachments/assets/f6db14e4-6b3f-4577-b3fe-89fb97ae2bac)
+![g](https://github.com/user-attachments/assets/155f7ec6-375b-41cb-839d-6ef5a69e9934)
 
 Inspiration
 
@@ -85,3 +91,9 @@ Tech Stack
     Backend: Node.js, Express
     Database: MongoDB
     APIs: Google Document AI, Spoonacular API, Google Maps API
+
+Contributers
+
+    Taebin Sung    
+    David Falade
+    Alex Yang
